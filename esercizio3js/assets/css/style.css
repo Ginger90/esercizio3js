@@ -1,0 +1,17 @@
+body {
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(212, 54, 5, 0.9605734767025089) 100%);
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+fieldset {
+    
+    display: inline-block;
+    
+
+}
+ 
